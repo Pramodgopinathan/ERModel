@@ -65,3 +65,6 @@ CREATE TABLE project (
 );
 
 ```
+# Conclusion
+
+Above is the way to design database design for an Organization as per the requirement.
