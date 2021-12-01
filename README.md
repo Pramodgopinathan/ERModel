@@ -5,7 +5,7 @@ An entity relationship diagram (ERD), also known as an entity relationship model
 
 # ER Diagram
 
-![](https://github.com/Pramodgopinathan/ERModel/blob/de95f17b9a0a048aba36bbd043b4fd771c9ba29c/ER%20Diagram.jpg)
+![](https://github.com/Pramodgopinathan/ERModel/blob/e234217509165f238a64791efc520de4efb4f33f/ER%20D.jpg)
 
 # ER Diagram Elements
 
