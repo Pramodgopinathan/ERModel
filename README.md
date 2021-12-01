@@ -17,7 +17,7 @@ An entity relationship diagram (ERD), also known as an entity relationship model
 
 # CREATE TABLE
 
-```SQL:
+``` SQL
 
 DROP TABLE IF EXISTS dbo.employee
 DROP TABLE IF EXISTS dbo.dependent
